@@ -21,19 +21,20 @@ Sincronizando carpeta Entregas con git
  - Añadir (git add .gitignore)
    	  (git status)
 	  (git commit -m "descipción")
+
 5. Configurar proxy unal
  - (export https="https://elmvargaspi:Jilmalima1@proxyapp.unal.edu.co:8080/"
 
 6. Sincronizando local con el repositorio remoto
- - indicar el remoto (git remote add "url_repositorio_en_github"(copiar de git))
- - comando git push -u origin master (copiar git)
+ - Iindicar el remoto (git remote add "url_repositorio_en_github"(copiar de git))
+ - Comando git push -u origin master (copiar git)
  - Introducir username
  - Introducir password git
 
 7. Enviar archivos nuevos o cambios
- - git add Nombarchivo.ejemplo
- - git commit -m "descripción"
- - git push -u origin master
+ - Git add Nombarchivo.ejemplo
+ - Git commit -m "descripción"
+ - Git push -u origin master
  - Introducir username
  - Introducir password git
 
